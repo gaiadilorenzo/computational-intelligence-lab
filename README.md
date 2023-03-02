@@ -1,2 +1,2 @@
-# computational-intelligence-lab
-Exercise for CIL lab - FS23.
+# Computational Intelligence Lab - FS23
+Exercise for CIL lab.
